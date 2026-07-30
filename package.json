@@ -1,0 +1,20 @@
+{
+  "name": "type-page",
+  "version": "1.0.0",
+  "description": "Aplicacion web para practicar velocidad de escritura en espanol",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "typing",
+    "speed",
+    "practice"
+  ],
+  "author": "vlincode",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
