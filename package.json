@@ -1,0 +1,24 @@
+{
+  "name": "type-page",
+  "version": "1.0.0",
+  "description": "Aplicacion web para practicar velocidad de escritura en espanol. Tema oscuro minimalista con teclado virtual interactivo.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VlinCode-Dev/type_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VlinCode-Dev/type_page/issues"
+  },
+  "homepage": "https://github.com/VlinCode-Dev/type_page#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
